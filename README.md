@@ -1,1 +1,1 @@
-# multirrobot-pattern-shaping
+# Multirrobot-pattern-shaping
