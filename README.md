@@ -1,6 +1,7 @@
 # Multirrobot-pattern-shaping
 
-![Portada](![portada_github_mrps](https://user-images.githubusercontent.com/105311357/167711510-667dd150-d8c8-499f-9d72-8905d79237a0.jpeg))
+![portada_github_mrps](https://user-images.githubusercontent.com/105311357/167719727-949c0bac-26d7-4e3b-a66f-2690cdd3460b.jpeg)
+
 
 ## Requirements 
 
